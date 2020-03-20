@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-This is a change to the forked copy.
-This is a branch change at 5:20pm
-=======
-This is mybranch
+on branch mybranch created in gitspoon5
 
 
->>>>>>> 3a608f33c3437409c7fc54a935add802c58e4779
 
 ### Well hello there!
 
